@@ -81,7 +81,7 @@ Trends such as augmented reality domains, virtual asset extensions, and decentra
 ## Blockchain-Powered Domain Extensions
 Blockchain Integration: Utilizing blockchain technology to enhance security and transparency in domain management.
 
-Blockchain-powered domain extensions, such as .crypto and .eth, are revolutionising online security by leveraging blockchain's immutable ledger. These extensions enable decentralized ownership and secure transactions, ensuring heightened trust and reliability in the digital space.
+Blockchain-powered domain extensions, such as .z , .x , .meta , .web3 .crypto and .eth, are revolutionising online security by leveraging blockchain's immutable ledger. These extensions enable decentralized ownership and secure transactions, ensuring heightened trust and reliability in the digital space.
 
   
 ## Conclusion
