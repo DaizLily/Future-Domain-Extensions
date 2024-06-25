@@ -77,6 +77,12 @@ Trends such as augmented reality domains, virtual asset extensions, and decentra
 * Augmented Reality Domains: Enhancing interactions that blend physical and digital realities.
 * Virtual Asset Extensions: Supporting tokenization and monetization within the Metaverse.
 * Decentralized Naming Systems: Empowering users with greater control over their online identities and assets, fostering a more inclusive digital ecosystem.
+
+## Blockchain-Powered Domain Extensions
+Blockchain Integration: Utilizing blockchain technology to enhance security and transparency in domain management.
+
+Blockchain-powered domain extensions, such as .crypto and .eth, are revolutionising online security by leveraging blockchain's immutable ledger. These extensions enable decentralized ownership and secure transactions, ensuring heightened trust and reliability in the digital space.
+
   
 ## Conclusion
 As we journey into the digital future of 2030, domain extensions will play a pivotal role in shaping online identities and business landscapes. 
